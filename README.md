@@ -1,4 +1,4 @@
-# Gotta Redeem 'Em All
+# Gotta Redeem 'Em All - Pokemon TCG Live Booster Code Auto-Redeemer
 
 ![Gotta Redeem 'Em All banner](docs/images/banner.png)
 
