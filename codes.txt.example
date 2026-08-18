@@ -1,0 +1,4 @@
+# One code per line. Lines starting with # are ignored.
+# Real codes are ~13-character unhyphenated alphanumerics, e.g.:
+ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
